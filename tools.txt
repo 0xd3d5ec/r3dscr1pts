@@ -79,6 +79,7 @@ vim
 neovim
 docker
 docker-compose
+flameshot
 python-pipx
 python-pip
 pyenv
