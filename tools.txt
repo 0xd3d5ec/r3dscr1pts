@@ -1,0 +1,84 @@
+### Wordlists
+seclists
+wordlistctl
+cewl
+crunch
+
+### Hash Cracking tools
+hashid
+hash-identifier
+hashcat
+
+### Web tools
+zaproxy
+subfinder
+whatweb
+katana-pd
+dirsearch
+feroxbuster
+ffuf
+gobuster
+httpx
+nikto
+wpscan
+dotdotpwn
+w3af
+
+### Network tools 
+amass
+wireshark-qt
+termshark
+ngrok
+dnsrecon
+nmap
+rustscan
+massscan
+sslscan
+dnsmap
+dnsrecon
+subbrute
+
+### DDOS tools
+hoic
+loic
+cloudfail
+hulk
+ddosify
+slowloris
+
+### Osint tools
+set
+python-pyexifinfo
+phoneinfoga
+exiv2
+
+### Email analysis
+simplyemail
+
+### Exploitation tools
+sploitctl
+exploitdb
+
+### Dorking tools
+bingoo
+dorks
+
+### Defense tools
+ufw
+fail2ban
+
+### Anonyimity
+tor
+proxychains-ng
+nipe
+secure-delete
+torctl
+
+### Misc tools
+vim 
+neovim
+docker
+docker-compose
+python-pipx
+python-pip
+pyenv
