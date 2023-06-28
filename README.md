@@ -5,4 +5,4 @@ A bunch of personal scripts that assist in doing offensive and red team operatio
 A script that saves time when doing recon for sub domains of a selected target(s).
 
 ## Tools
-File <code>tools.txt</code> contains tools for pentesting and other tasks.
+File <code>tools.txt</code> contains tools for pentesting and other tasks. You can use command:<code>sudo pacman -S - < tools.txt</code> to install all the tools in the file.
