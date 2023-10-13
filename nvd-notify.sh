@@ -11,4 +11,4 @@ fi
 
 # then you can add this script to the crontab for automated execution at a set interval
 # executes at mid-night everyday
-0 0 * * * /path/to/script.sh 
+# 0 0 * * * /path/to/script.sh 
